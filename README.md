@@ -1,7 +1,5 @@
 #### Note: I do not promote piracy, this repository is only meant to provide useful links to whoever needs it.
 
-#### Browser Preset: https://drive.google.com/file/d/1jTg2yv2Hw57JG88Job7GUAC0XQrrfxvQ/view?usp=share_link
-
 # Useful Tools
 
 ## Useful Extensions
